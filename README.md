@@ -1,4 +1,4 @@
-<h2>ExcelGenerator</h2>
+<h2>Excel Generator</h2>
 
 <strong>Microsoft Excel Object Library</strong> is used for generatig an excel file.
 
