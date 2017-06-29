@@ -1,0 +1,7 @@
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\ExcelGenerator\bin\Debug\ExcelGenerator.exe.config
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\ExcelGenerator\obj\Debug\ExcelGenerator.csproj.ResolveComReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\ExcelGenerator\bin\Debug\ExcelGenerator.exe
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\ExcelGenerator\bin\Debug\ExcelGenerator.pdb
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\ExcelGenerator\obj\Debug\ExcelGenerator.csprojResolveAssemblyReference.cache
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\ExcelGenerator\obj\Debug\ExcelGenerator.exe
+C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\ExcelGenerator\obj\Debug\ExcelGenerator.pdb
