@@ -1,5 +1,0 @@
-C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\FactorialsCalculator\bin\Debug\FactorialsCalculator.exe.config
-C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\FactorialsCalculator\bin\Debug\FactorialsCalculator.exe
-C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\FactorialsCalculator\bin\Debug\FactorialsCalculator.pdb
-C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\FactorialsCalculator\obj\Debug\FactorialsCalculator.exe
-C:\Users\toshiba\Documents\Visual Studio 2015\Projects\Tasks\FactorialsCalculator\obj\Debug\FactorialsCalculator.pdb
